@@ -1,3 +1,3 @@
 def parrot (phrase = "Squawk!")
-   "Pretty bird! #{phrase}"
+    return "Pretty bird! #{phrase}"
 end
