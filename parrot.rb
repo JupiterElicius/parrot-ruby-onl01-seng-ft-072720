@@ -1,3 +1,3 @@
 def parrot (phrase = "Squawk!")
-  print "Pretty bird! #{phrase}"
+   "Pretty bird! #{phrase}"
 end
